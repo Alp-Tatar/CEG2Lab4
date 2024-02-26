@@ -1,0 +1,2465 @@
+
+Hello world!
+textbuffer address = 0x20000028 
+svc_zero: String to pass to SVC handler zero
+svc_one: String to pass to a different OS function
+Press Enter to initialize Stock Exchange:
+stock0000: price     45
+stock0001: price     57
+stock0002: price     44
+stock0003: price     70
+stock0004: price     53
+stock0005: price     82
+stock0006: price     66
+stock0007: price     87
+stock0008: price     64
+stock0009: price     49
+stock0010: price     22
+stock0011: price     25
+stock0012: price     32
+stock0013: price     92
+stock0014: price     52
+stock0015: price     76
+stock0016: price     22
+stock0017: price     72
+stock0018: price     22
+stock0019: price     25
+stock0020: price     59
+stock0021: price     86
+stock0022: price     77
+stock0023: price     26
+stock0024: price    108
+stock0025: price     78
+stock0026: price     49
+stock0027: price    101
+stock0028: price     99
+stock0029: price     97
+stock0030: price     42
+stock0031: price     33
+stock0032: price     16
+stock0033: price     27
+stock0034: price     56
+stock0035: price     16
+stock0036: price     25
+stock0037: price     50
+stock0038: price    109
+stock0039: price     64
+stock0040: price     29
+stock0041: price     15
+stock0042: price     33
+stock0043: price    101
+stock0044: price     45
+stock0045: price    103
+stock0046: price     41
+stock0047: price     23
+stock0048: price     15
+stock0049: price    101
+stock0050: price     69
+stock0051: price     69
+stock0052: price    103
+stock0053: price     42
+stock0054: price     87
+stock0055: price     47
+stock0056: price     19
+stock0057: price     19
+stock0058: price     25
+stock0059: price     63
+stock0060: price     70
+stock0061: price     23
+stock0062: price     28
+stock0063: price     90
+stock0064: price     81
+stock0065: price     82
+stock0066: price     16
+stock0067: price    106
+stock0068: price     30
+stock0069: price     89
+stock0070: price     29
+stock0071: price     64
+stock0072: price     64
+stock0073: price    101
+stock0074: price     57
+stock0075: price     47
+stock0076: price     59
+stock0077: price    106
+stock0078: price    107
+stock0079: price     67
+stock0080: price     36
+stock0081: price     18
+stock0082: price     40
+stock0083: price     75
+stock0084: price     43
+stock0085: price    108
+stock0086: price     84
+stock0087: price    106
+stock0088: price     14
+stock0089: price     79
+stock0090: price     71
+stock0091: price    108
+stock0092: price     24
+stock0093: price     94
+stock0094: price     16
+stock0095: price    100
+stock0096: price    104
+stock0097: price    108
+stock0098: price     43
+stock0099: price     79
+stock0100: price     94
+stock0101: price     95
+stock0102: price     16
+stock0103: price     55
+stock0104: price     98
+stock0105: price     64
+stock0106: price     15
+stock0107: price     84
+stock0108: price     87
+stock0109: price     89
+stock0110: price     22
+stock0111: price     79
+stock0112: price    105
+stock0113: price     64
+stock0114: price     40
+stock0115: price     82
+stock0116: price     15
+stock0117: price     94
+stock0118: price     13
+stock0119: price     46
+stock0120: price     97
+stock0121: price     14
+stock0122: price     15
+stock0123: price     93
+stock0124: price     59
+stock0125: price     30
+stock0126: price     43
+stock0127: price    109
+stock0128: price     67
+stock0129: price     60
+stock0130: price     77
+stock0131: price     68
+stock0132: price     15
+stock0133: price     94
+stock0134: price     70
+stock0135: price     96
+stock0136: price     24
+stock0137: price     33
+stock0138: price     92
+stock0139: price     40
+stock0140: price     83
+stock0141: price     61
+stock0142: price     90
+stock0143: price     11
+stock0144: price     35
+stock0145: price     94
+stock0146: price     58
+stock0147: price     24
+stock0148: price     46
+stock0149: price     37
+stock0150: price     93
+stock0151: price     48
+stock0152: price    100
+stock0153: price     77
+stock0154: price     45
+stock0155: price    104
+stock0156: price     90
+stock0157: price     30
+stock0158: price     25
+stock0159: price     95
+stock0160: price     74
+stock0161: price     86
+stock0162: price     27
+stock0163: price     57
+stock0164: price     94
+stock0165: price     52
+stock0166: price     55
+stock0167: price     48
+stock0168: price     11
+stock0169: price     53
+stock0170: price     76
+stock0171: price     89
+stock0172: price     43
+stock0173: price    106
+stock0174: price     20
+stock0175: price     95
+stock0176: price     16
+stock0177: price     82
+stock0178: price     76
+stock0179: price     51
+stock0180: price     58
+stock0181: price     25
+stock0182: price     19
+stock0183: price     93
+stock0184: price     39
+stock0185: price     42
+stock0186: price     87
+stock0187: price     48
+stock0188: price     23
+stock0189: price     69
+stock0190: price     40
+stock0191: price     56
+stock0192: price    103
+stock0193: price     15
+stock0194: price     38
+stock0195: price     52
+stock0196: price     90
+stock0197: price     20
+stock0198: price     84
+stock0199: price     10
+stock0200: price     92
+stock0201: price     49
+stock0202: price     45
+stock0203: price    101
+stock0204: price     86
+stock0205: price     61
+stock0206: price     90
+stock0207: price     46
+stock0208: price     74
+stock0209: price     80
+stock0210: price    101
+stock0211: price     74
+stock0212: price     32
+stock0213: price    107
+stock0214: price     43
+stock0215: price     30
+stock0216: price     26
+stock0217: price     25
+stock0218: price     54
+stock0219: price     56
+stock0220: price     69
+stock0221: price    103
+stock0222: price     83
+stock0223: price     62
+stock0224: price     91
+stock0225: price     51
+stock0226: price     83
+stock0227: price     79
+stock0228: price     95
+stock0229: price     60
+stock0230: price     94
+stock0231: price     50
+stock0232: price     41
+stock0233: price     25
+stock0234: price     31
+stock0235: price     94
+stock0236: price     23
+stock0237: price     87
+stock0238: price     60
+stock0239: price     23
+stock0240: price     10
+stock0241: price     23
+stock0242: price     35
+stock0243: price     13
+stock0244: price     14
+stock0245: price     16
+stock0246: price     27
+stock0247: price     74
+stock0248: price    102
+stock0249: price     75
+stock0250: price     39
+stock0251: price     18
+stock0252: price     79
+stock0253: price     20
+stock0254: price     95
+stock0255: price     86
+investor0000: cashe 10000 ----- total  10000 
+investor0001: cashe 10000 ----- total  10000 
+investor0002: cashe 10000 ----- total  10000 
+investor0003: cashe 10000 ----- total  10000 
+investor0004: cashe 10000 ----- total  10000 
+investor0005: cashe 10000 ----- total  10000 
+investor0006: cashe 10000 ----- total  10000 
+investor0007: cashe 10000 ----- total  10000 
+investor0008: cashe 10000 ----- total  10000 
+investor0009: cashe 10000 ----- total  10000 
+investor0010: cashe 10000 ----- total  10000 
+investor0011: cashe 10000 ----- total  10000 
+investor0012: cashe 10000 ----- total  10000 
+investor0013: cashe 10000 ----- total  10000 
+investor0014: cashe 10000 ----- total  10000 
+investor0015: cashe 10000 ----- total  10000 
+investor0016: cashe 10000 ----- total  10000 
+investor0017: cashe 10000 ----- total  10000 
+investor0018: cashe 10000 ----- total  10000 
+investor0019: cashe 10000 ----- total  10000 
+investor0020: cashe 10000 ----- total  10000 
+investor0021: cashe 10000 ----- total  10000 
+investor0022: cashe 10000 ----- total  10000 
+investor0023: cashe 10000 ----- total  10000 
+investor0024: cashe 10000 ----- total  10000 
+investor0025: cashe 10000 ----- total  10000 
+investor0026: cashe 10000 ----- total  10000 
+investor0027: cashe 10000 ----- total  10000 
+investor0028: cashe 10000 ----- total  10000 
+investor0029: cashe 10000 ----- total  10000 
+investor0030: cashe 10000 ----- total  10000 
+investor0031: cashe 10000 ----- total  10000 
+investor0032: cashe 10000 ----- total  10000 
+investor0033: cashe 10000 ----- total  10000 
+investor0034: cashe 10000 ----- total  10000 
+investor0035: cashe 10000 ----- total  10000 
+investor0036: cashe 10000 ----- total  10000 
+investor0037: cashe 10000 ----- total  10000 
+investor0038: cashe 10000 ----- total  10000 
+investor0039: cashe 10000 ----- total  10000 
+investor0040: cashe 10000 ----- total  10000 
+investor0041: cashe 10000 ----- total  10000 
+investor0042: cashe 10000 ----- total  10000 
+investor0043: cashe 10000 ----- total  10000 
+investor0044: cashe 10000 ----- total  10000 
+investor0045: cashe 10000 ----- total  10000 
+investor0046: cashe 10000 ----- total  10000 
+investor0047: cashe 10000 ----- total  10000 
+investor0048: cashe 10000 ----- total  10000 
+investor0049: cashe 10000 ----- total  10000 
+investor0050: cashe 10000 ----- total  10000 
+investor0051: cashe 10000 ----- total  10000 
+investor0052: cashe 10000 ----- total  10000 
+investor0053: cashe 10000 ----- total  10000 
+investor0054: cashe 10000 ----- total  10000 
+investor0055: cashe 10000 ----- total  10000 
+investor0056: cashe 10000 ----- total  10000 
+investor0057: cashe 10000 ----- total  10000 
+investor0058: cashe 10000 ----- total  10000 
+investor0059: cashe 10000 ----- total  10000 
+investor0060: cashe 10000 ----- total  10000 
+investor0061: cashe 10000 ----- total  10000 
+investor0062: cashe 10000 ----- total  10000 
+investor0063: cashe 10000 ----- total  10000 
+Stock Exchange is now open
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0023: price     14
+BUY: investor0037: cashe 6808 (stock0023 3192) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0049: price     61
+BUY: investor0040: cashe 7987 (stock0049 2013) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0105: price     49
+BUY: investor0041: cashe 2454 (stock0105 7546) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0176: price     13
+BUY: investor0044: cashe 198 (stock0176 9802) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0097: price    100
+BUY: investor0045: cashe 4900 (stock0097 5100) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0155: price     98
+BUY: investor0046: cashe 9706 (stock0155 294) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0039: price     54
+BUY: investor0051: cashe 8272 (stock0039 1728) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     20
+BUY: investor0053: cashe 7240 (stock0061 2760) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0162: price     15
+BUY: investor0055: cashe 220 (stock0162 9780) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0198: price     43
+BUY: investor0059: cashe 5399 (stock0198 4601) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0221: price     61
+BUY: investor0060: cashe 1155 (stock0221 8845) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0132: price     10
+BUY: investor0062: cashe 3060 (stock0132 6940) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0083: price     65
+BUY: investor0003: cashe 5255 (stock0083 4745) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0111: price     53
+BUY: investor0004: cashe 5601 (stock0111 4399) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0046: price     23
+BUY: investor0005: cashe 4963 (stock0046 5037) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0186: price     48
+BUY: investor0007: cashe 6496 (stock0186 3504) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0220: price     68
+BUY: investor0010: cashe 2996 (stock0220 7004) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0097: price     59
+BUY: investor0013: cashe 2448 (stock0097 7552) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0190: price     41
+BUY: investor0026: cashe 4916 (stock0190 5084) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0050: price     40
+BUY: investor0027: cashe 8120 (stock0050 1880) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0183: price     49
+BUY: investor0030: cashe 2111 (stock0183 7889) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0012: price     21
+BUY: investor0031: cashe 4036 (stock0012 5964) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0032: price      9
+BUY: investor0034: cashe 3169 (stock0032 6831) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0121: price     12
+BUY: investor0036: cashe 1420 (stock0121 8580) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0023: price     26
+SELL: investor0037: cashe 12736 ----- total  12736 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0078: price     58
+BUY: investor0039: cashe 3388 (stock0078 6612) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0049: price    104
+SELL: investor0040: cashe 11419 ----- total  11419 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0090: price     48
+BUY: investor0043: cashe 9472 (stock0090 528) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0097: price     73
+SELL: investor0045: cashe 8623 ----- total   8623 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0201: price     25
+BUY: investor0047: cashe 9000 (stock0201 1000) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0039: price     35
+SELL: investor0051: cashe 9392 ----- total   9392 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0042: price     23
+BUY: investor0053: cashe 4917 (stock0061 2760) (stock0042 2323) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0154: price     52
+BUY: investor0054: cashe 5320 (stock0154 4680) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0162: price     14
+SELL: investor0055: cashe 9348 ----- total   9348 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0198: price     43
+SELL: investor0059: cashe 10000 ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0132: price     16
+SELL: investor0062: cashe 14164 ----- total  14164 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0165: price     46
+BUY: investor0000: cashe 4710 (stock0165 5290) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0083: price     39
+SELL: investor0003: cashe 8102 ----- total   8102 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0153: price     44
+BUY: investor0005: cashe 1795 (stock0046 5037) (stock0153 3168) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0094: price      9
+BUY: investor0006: cashe 7588 (stock0094 2412) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0186: price     46
+SELL: investor0007: cashe 9854 ----- total   9854 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0136: price     13
+BUY: investor0009: cashe 1797 (stock0136 8203) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0097: price     93
+SELL: investor0013: cashe 14352 ----- total  14352 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0033: price     16
+BUY: investor0015: cashe 8928 (stock0033 1072) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0144: price     23
+BUY: investor0016: cashe 3974 (stock0144 6026) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0008: price     70
+BUY: investor0019: cashe 1040 (stock0008 8960) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0060: price     43
+BUY: investor0021: cashe 9183 (stock0060 817) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0195: price     55
+BUY: investor0023: cashe 3015 (stock0195 6985) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0225: price     28
+BUY: investor0025: cashe 8404 (stock0225 1596) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0031: price     22
+BUY: investor0026: cashe 3530 (stock0190 5084) (stock0031 1386) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0203: price     56
+BUY: investor0030: cashe 2055 (stock0183 7889) (stock0203 56) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0012: price     19
+SELL: investor0031: cashe 9432 ----- total   9432 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0032: price     10
+SELL: investor0034: cashe 10759 ----- total  10759 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0121: price      9
+SELL: investor0036: cashe 7855 ----- total   7855 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0165: price     44
+BUY: investor0039: cashe 2332 (stock0078 6612) (stock0165 1056) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0075: price     47
+BUY: investor0040: cashe 3758 (stock0075 7661) ----- total  11419 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0090: price     40
+SELL: investor0043: cashe 9912 ----- total   9912 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0004: price     34
+BUY: investor0046: cashe 4436 (stock0155 294) (stock0004 5270) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0034: price     45
+BUY: investor0047: cashe 1260 (stock0201 1000) (stock0034 7740) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0113: price     66
+BUY: investor0053: cashe 2277 (stock0061 2760) (stock0042 2323) (stock0113 2640) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0154: price     35
+SELL: investor0054: cashe 8470 ----- total   8470 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0067: price     53
+BUY: investor0056: cashe 884 (stock0067 9116) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0044: price     41
+BUY: investor0058: cashe 3276 (stock0044 6724) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0137: price     18
+BUY: investor0060: cashe 417 (stock0221 8845) (stock0137 738) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0206: price     47
+BUY: investor0062: cashe 10216 (stock0206 3948) ----- total  14164 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0148: price     42
+BUY: investor0063: cashe 7606 (stock0148 2394) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0025: price     40
+BUY: investor0000: cashe 1790 (stock0165 5060) (stock0025 2920) ----- total   9770 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0111: price     53
+SELL: investor0004: cashe 10000 ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0187: price     42
+BUY: investor0006: cashe 3388 (stock0094 2412) (stock0187 4200) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0136: price     13
+SELL: investor0009: cashe 10000 ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0088: price      8
+BUY: investor0012: cashe 2872 (stock0088 7128) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0175: price     53
+BUY: investor0013: cashe 13928 (stock0175 424) ----- total  14352 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0033: price     19
+SELL: investor0015: cashe 10201 ----- total  10201 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0185: price     23
+BUY: investor0016: cashe 3652 (stock0144 6026) (stock0185 322) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0091: price     63
+BUY: investor0019: cashe 536 (stock0008 8960) (stock0091 504) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0221: price    102
+BUY: investor0020: cashe 9694 (stock0221 306) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0060: price     49
+SELL: investor0021: cashe 10114 ----- total  10114 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0195: price     61
+SELL: investor0023: cashe 10762 ----- total  10762 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0225: price     27
+SELL: investor0025: cashe 9943 ----- total   9943 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0158: price     16
+BUY: investor0026: cashe 3226 (stock0190 5084) (stock0031 1386) (stock0158 304) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0237: price     66
+BUY: investor0027: cashe 7526 (stock0050 1880) (stock0237 594) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0003: price     50
+BUY: investor0028: cashe 3400 (stock0003 6600) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0203: price     52
+SELL: investor0030: cashe 2107 (stock0183 7889) ----- total   9996 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0154: price     50
+BUY: investor0037: cashe 7136 (stock0154 5600) ----- total  12736 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0233: price     16
+BUY: investor0039: cashe 588 (stock0078 6612) (stock0165 1056) (stock0233 1744) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0075: price     41
+SELL: investor0040: cashe 10441 ----- total  10441 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0230: price     54
+BUY: investor0042: cashe 8650 (stock0230 1350) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0143: price     12
+BUY: investor0043: cashe 6996 (stock0143 2916) ----- total   9912 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0244: price      9
+BUY: investor0044: cashe 72 (stock0176 9802) (stock0244 126) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0212: price     26
+BUY: investor0046: cashe 3266 (stock0155 294) (stock0004 5270) (stock0212 1170) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0201: price     28
+SELL: investor0047: cashe 2380 (stock0034 7740) ----- total  10120 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0019: price     25
+BUY: investor0049: cashe 5300 (stock0019 4700) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0242: price     18
+BUY: investor0051: cashe 3524 (stock0242 5868) ----- total   9392 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0243: price      8
+BUY: investor0052: cashe 6112 (stock0243 3888) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     13
+SELL: investor0053: cashe 4071 (stock0042 2323) (stock0113 2640) ----- total   9034 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0067: price     53
+SELL: investor0056: cashe 10000 ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0110: price     13
+BUY: investor0058: cashe 325 (stock0044 6724) (stock0110 2951) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0137: price     17
+SELL: investor0060: cashe 1114 (stock0221 14790) ----- total  15904 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0020: price     36
+BUY: investor0062: cashe 6364 (stock0206 3948) (stock0020 3852) ----- total  14164 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     21
+BUY: investor0063: cashe 2419 (stock0148 2394) (stock0061 5187) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0025: price     67
+SELL: investor0000: cashe 6681 (stock0165 5060) ----- total  11741 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0098: price     25
+BUY: investor0004: cashe 7550 (stock0098 2450) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0181: price     18
+BUY: investor0006: cashe 1840 (stock0094 2412) (stock0187 4200) (stock0181 1548) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0040: price     27
+BUY: investor0009: cashe 1549 (stock0040 8451) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0226: price     59
+BUY: investor0012: cashe 2223 (stock0088 7128) (stock0226 649) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0112: price     91
+BUY: investor0013: cashe 4373 (stock0175 424) (stock0112 9555) ----- total  14352 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0185: price     23
+SELL: investor0016: cashe 3974 (stock0144 6026) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0233: price     26
+BUY: investor0018: cashe 9844 (stock0233 156) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0014: price     58
+BUY: investor0019: cashe 72 (stock0008 8960) (stock0091 504) (stock0014 464) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0009: price     39
+BUY: investor0021: cashe 2392 (stock0009 7722) ----- total  10114 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0019: price     23
+BUY: investor0025: cashe 7942 (stock0019 2001) ----- total   9943 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0031: price     38
+SELL: investor0026: cashe 5620 (stock0190 5084) (stock0158 304) ----- total  11008 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0194: price     28
+BUY: investor0028: cashe 1776 (stock0003 6600) (stock0194 1624) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0129: price     34
+BUY: investor0029: cashe 1262 (stock0129 8738) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0183: price     60
+SELL: investor0030: cashe 11767 ----- total  11767 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0191: price     31
+BUY: investor0032: cashe 8264 (stock0191 1736) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0075: price     43
+BUY: investor0036: cashe 6823 (stock0075 1032) ----- total   7855 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0158: price     17
+BUY: investor0037: cashe 6048 (stock0154 5600) (stock0158 1088) ----- total  12736 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0006: price     56
+BUY: investor0038: cashe 2944 (stock0006 7056) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0183: price     69
+BUY: investor0040: cashe 22 (stock0183 10419) ----- total  10441 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0087: price     68
+BUY: investor0041: cashe 1094 (stock0105 7546) (stock0087 1360) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0150: price     79
+BUY: investor0042: cashe 3673 (stock0230 1350) (stock0150 4977) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0015: price     50
+BUY: investor0043: cashe 4496 (stock0143 2916) (stock0015 2500) ----- total   9912 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0175: price     53
+BUY: investor0044: cashe 19 (stock0176 9802) (stock0244 126) (stock0175 53) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0212: price     19
+SELL: investor0046: cashe 4121 (stock0155 294) (stock0004 5270) ----- total   9685 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0138: price     47
+BUY: investor0049: cashe 4689 (stock0019 4324) (stock0138 611) ----- total   9624 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0012: price     17
+BUY: investor0051: cashe 1892 (stock0242 5868) (stock0012 1632) ----- total   9392 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0049: price     67
+BUY: investor0052: cashe 82 (stock0243 3888) (stock0049 6030) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0042: price     21
+SELL: investor0053: cashe 6192 (stock0113 2640) ----- total   8832 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0190: price     26
+BUY: investor0055: cashe 1678 (stock0190 7670) ----- total   9348 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     32
+BUY: investor0056: cashe 7920 (stock0241 2080) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0068: price     17
+BUY: investor0058: cashe 308 (stock0044 6724) (stock0110 2951) (stock0068 17) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0194: price     25
+BUY: investor0060: cashe 39 (stock0221 14790) (stock0194 1075) ----- total  15904 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0151: price     47
+BUY: investor0061: cashe 1634 (stock0151 8366) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0020: price     35
+SELL: investor0062: cashe 10109 (stock0206 3948) ----- total  14057 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0165: price     54
+SELL: investor0000: cashe 12891 ----- total  12891 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0228: price     61
+BUY: investor0004: cashe 596 (stock0098 2450) (stock0228 6954) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0092: price     18
+BUY: investor0005: cashe 733 (stock0046 5037) (stock0153 3168) (stock0092 1062) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0187: price     48
+SELL: investor0006: cashe 6640 (stock0094 2412) (stock0181 1548) ----- total  10600 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0015: price     53
+BUY: investor0009: cashe 171 (stock0040 8451) (stock0015 1378) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0220: price     72
+SELL: investor0010: cashe 10412 ----- total  10412 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0088: price     11
+SELL: investor0012: cashe 12024 (stock0226 649) ----- total  12673 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0012: price     20
+BUY: investor0015: cashe 8801 (stock0012 1400) ----- total  10201 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0144: price     18
+SELL: investor0016: cashe 8690 ----- total   8690 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0141: price     50
+BUY: investor0018: cashe 4394 (stock0233 156) (stock0141 5450) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0091: price     56
+SELL: investor0019: cashe 520 (stock0008 8960) (stock0014 464) ----- total   9944 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0009: price     37
+SELL: investor0021: cashe 9718 ----- total   9718 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0087: price     66
+BUY: investor0024: cashe 1684 (stock0087 8316) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0190: price     41
+SELL: investor0026: cashe 10704 (stock0158 323) ----- total  11027 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0003: price     40
+SELL: investor0028: cashe 7056 (stock0194 1450) ----- total   8506 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0129: price     32
+SELL: investor0029: cashe 9486 ----- total   9486 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0100: price     78
+BUY: investor0032: cashe 4676 (stock0191 1736) (stock0100 3588) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0202: price     29
+BUY: investor0033: cashe 4664 (stock0202 5336) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0142: price     49
+BUY: investor0036: cashe 3393 (stock0075 1032) (stock0142 3430) ----- total   7855 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0052: price     61
+BUY: investor0037: cashe 3974 (stock0154 5600) (stock0158 1088) (stock0052 2074) ----- total  12736 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0006: price     66
+SELL: investor0038: cashe 11260 ----- total  11260 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0183: price     50
+SELL: investor0040: cashe 7572 ----- total   7572 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0150: price     62
+SELL: investor0042: cashe 7579 (stock0230 1350) ----- total   8929 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0088: price     11
+BUY: investor0044: cashe 8 (stock0176 9802) (stock0244 126) (stock0175 53) (stock0088 11) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0004: price     39
+SELL: investor0046: cashe 10166 (stock0155 294) ----- total  10460 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0194: price     39
+BUY: investor0049: cashe 1530 (stock0019 4324) (stock0138 611) (stock0194 3159) ----- total   9624 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0080: price     20
+BUY: investor0051: cashe 1532 (stock0242 5868) (stock0012 1920) (stock0080 360) ----- total   9680 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0049: price     70
+SELL: investor0052: cashe 6382 (stock0243 3888) ----- total  10270 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0137: price     17
+BUY: investor0053: cashe 3132 (stock0137 3060) (stock0113 2640) ----- total   8832 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0186: price     49
+BUY: investor0054: cashe 5530 (stock0186 2940) ----- total   8470 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0190: price     46
+SELL: investor0055: cashe 15248 ----- total  15248 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0220: price     64
+BUY: investor0057: cashe 8848 (stock0220 1152) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0110: price     16
+SELL: investor0058: cashe 3940 (stock0044 6724) (stock0068 17) ----- total  10681 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0221: price     95
+SELL: investor0060: cashe 13814 (stock0194 1677) ----- total  15491 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0151: price     30
+SELL: investor0061: cashe 6974 ----- total   6974 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0130: price     90
+BUY: investor0063: cashe 349 (stock0148 2394) (stock0061 5187) (stock0130 2070) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0098: price     25
+SELL: investor0004: cashe 3046 (stock0228 6954) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     17
+BUY: investor0006: cashe 690 (stock0094 2412) (stock0061 5950) (stock0181 1548) ----- total  10600 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0074: price     35
+BUY: investor0007: cashe 4884 (stock0074 4970) ----- total   9854 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0007: price     78
+BUY: investor0008: cashe 8050 (stock0007 1950) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0015: price     55
+SELL: investor0009: cashe 1601 (stock0040 8451) ----- total  10052 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0023: price     14
+BUY: investor0011: cashe 5926 (stock0023 4074) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0112: price     68
+SELL: investor0013: cashe 11513 (stock0175 424) ----- total  11937 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0038: price     93
+BUY: investor0015: cashe 896 (stock0012 1400) (stock0038 7905) ----- total  10201 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0068: price     18
+BUY: investor0016: cashe 6062 (stock0068 2628) ----- total   8690 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0228: price     50
+BUY: investor0018: cashe 3044 (stock0233 156) (stock0141 5450) (stock0228 1350) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0008: price     77
+SELL: investor0019: cashe 10376 (stock0014 464) ----- total  10840 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0168: price     14
+BUY: investor0023: cashe 1228 (stock0168 9534) ----- total  10762 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0087: price     55
+SELL: investor0024: cashe 8614 ----- total   8614 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0158: price     18
+SELL: investor0026: cashe 11046 ----- total  11046 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0194: price     29
+SELL: investor0028: cashe 8738 ----- total   8738 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0117: price     83
+BUY: investor0029: cashe 5502 (stock0117 3984) ----- total   9486 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0058: price     20
+BUY: investor0030: cashe 6887 (stock0058 4880) ----- total  11767 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0191: price     36
+SELL: investor0032: cashe 6692 (stock0100 3588) ----- total  10280 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0232: price     40
+BUY: investor0034: cashe 9759 (stock0232 1000) ----- total  10759 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0043: price     55
+BUY: investor0035: cashe 3235 (stock0043 6765) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0142: price     49
+SELL: investor0036: cashe 6823 (stock0075 1032) ----- total   7855 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0233: price     25
+SELL: investor0039: cashe 3313 (stock0078 6612) (stock0165 1296) ----- total  11221 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0171: price     55
+BUY: investor0040: cashe 862 (stock0171 6710) ----- total   7572 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0184: price     22
+BUY: investor0041: cashe 1006 (stock0105 7546) (stock0087 1100) (stock0184 88) ----- total   9740 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0230: price     50
+SELL: investor0042: cashe 8829 ----- total   8829 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0155: price     57
+SELL: investor0046: cashe 10337 ----- total  10337 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0034: price     36
+SELL: investor0047: cashe 8572 ----- total   8572 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0019: price     16
+SELL: investor0049: cashe 4538 (stock0138 611) (stock0194 2349) ----- total   7498 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0080: price     22
+SELL: investor0051: cashe 1928 (stock0242 5868) (stock0012 1920) ----- total   9716 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0113: price     42
+SELL: investor0053: cashe 4812 (stock0137 3060) ----- total   7872 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0186: price     46
+SELL: investor0054: cashe 8290 ----- total   8290 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0241: price     14
+SELL: investor0056: cashe 8830 ----- total   8830 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0220: price     62
+SELL: investor0057: cashe 9964 ----- total   9964 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0194: price     22
+SELL: investor0060: cashe 14760 ----- total  14760 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0206: price     51
+SELL: investor0062: cashe 14393 ----- total  14393 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0212: price     29
+BUY: investor0063: cashe 175 (stock0148 2394) (stock0061 4199) (stock0130 2070) (stock0212 174) ----- total   9012 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0039: price     74
+BUY: investor0003: cashe 924 (stock0039 7178) ----- total   8102 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0205: price     32
+BUY: investor0004: cashe 326 (stock0205 2720) (stock0228 5700) ----- total   8746 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0092: price     15
+SELL: investor0005: cashe 1618 (stock0046 5037) (stock0153 3168) ----- total   9823 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0074: price     39
+SELL: investor0007: cashe 10422 ----- total  10422 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0149: price     42
+BUY: investor0009: cashe 1307 (stock0040 8451) (stock0149 294) ----- total  10052 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0013: price     47
+BUY: investor0010: cashe 3503 (stock0013 6909) ----- total  10412 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0093: price     56
+BUY: investor0011: cashe 2342 (stock0023 4074) (stock0093 3584) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0063: price     95
+BUY: investor0012: cashe 7369 (stock0063 4655) (stock0226 649) ----- total  12673 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0251: price     10
+BUY: investor0014: cashe 8840 (stock0251 1160) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0226: price     63
+BUY: investor0015: cashe 455 (stock0012 1400) (stock0038 7905) (stock0226 441) ----- total  10201 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0068: price     17
+SELL: investor0016: cashe 8544 ----- total   8544 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0141: price     35
+SELL: investor0018: cashe 6859 (stock0233 150) (stock0228 1350) ----- total   8359 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0221: price    105
+SELL: investor0020: cashe 10009 ----- total  10009 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0244: price      8
+BUY: investor0022: cashe 8328 (stock0244 1672) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0094: price     12
+BUY: investor0024: cashe 7966 (stock0094 648) ----- total   8614 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0058: price     14
+BUY: investor0025: cashe 2986 (stock0019 1392) (stock0058 4956) ----- total   9334 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0057: price     16
+BUY: investor0027: cashe 2438 (stock0050 1880) (stock0237 594) (stock0057 5088) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0204: price     86
+BUY: investor0028: cashe 654 (stock0204 8084) ----- total   8738 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0058: price     23
+SELL: investor0030: cashe 12499 ----- total  12499 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0100: price     65
+SELL: investor0032: cashe 9682 ----- total   9682 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0008: price     73
+BUY: investor0033: cashe 2620 (stock0202 5336) (stock0008 2044) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0232: price     51
+SELL: investor0034: cashe 11034 ----- total  11034 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0120: price     50
+BUY: investor0036: cashe 5523 (stock0075 1032) (stock0120 1300) ----- total   7855 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0052: price     54
+SELL: investor0037: cashe 5810 (stock0154 5600) (stock0158 1152) ----- total  12562 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0165: price     51
+SELL: investor0039: cashe 4537 (stock0078 6612) ----- total  11149 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0184: price     33
+SELL: investor0041: cashe 1138 (stock0105 7546) (stock0087 1100) ----- total   9784 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0143: price     12
+SELL: investor0043: cashe 7412 (stock0015 2750) ----- total  10162 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0157: price     26
+BUY: investor0046: cashe 9973 (stock0157 364) ----- total  10337 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0171: price     62
+BUY: investor0048: cashe 9814 (stock0171 186) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0138: price     48
+SELL: investor0049: cashe 5162 (stock0194 1782) ----- total   6944 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0242: price     18
+SELL: investor0051: cashe 7796 (stock0012 1920) ----- total   9716 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0137: price     17
+SELL: investor0053: cashe 7872 ----- total   7872 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0044: price     41
+SELL: investor0058: cashe 10664 (stock0068 17) ----- total  10681 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     20
+SELL: investor0063: cashe 5115 (stock0148 2394) (stock0130 2070) (stock0212 174) ----- total   9753 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0180: price     39
+BUY: investor0001: cashe 1888 (stock0180 8112) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0039: price     62
+SELL: investor0003: cashe 6938 ----- total   6938 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0153: price     55
+SELL: investor0005: cashe 5578 (stock0046 5037) ----- total  10615 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0094: price     11
+SELL: investor0006: cashe 3638 (stock0061 7000) (stock0181 1548) ----- total  12186 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0007: price     87
+SELL: investor0008: cashe 10225 ----- total  10225 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0013: price     49
+SELL: investor0010: cashe 10706 ----- total  10706 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0181: price     23
+BUY: investor0012: cashe 1182 (stock0063 4655) (stock0226 693) (stock0181 6187) ----- total  12717 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0075: price     30
+BUY: investor0013: cashe 7163 (stock0175 424) (stock0075 4350) ----- total  11937 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0011: price     20
+BUY: investor0014: cashe 4300 (stock0251 1160) (stock0011 4540) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0007: price     80
+BUY: investor0018: cashe 1979 (stock0233 150) (stock0007 4880) (stock0228 1350) ----- total   8359 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0014: price     36
+SELL: investor0019: cashe 10664 ----- total  10664 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0021: price     46
+BUY: investor0021: cashe 1622 (stock0021 8096) ----- total   9718 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0244: price      8
+SELL: investor0022: cashe 10000 ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0094: price     10
+SELL: investor0024: cashe 8506 ----- total   8506 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0058: price     16
+SELL: investor0025: cashe 8650 (stock0019 1392) ----- total  10042 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0237: price     52
+SELL: investor0027: cashe 2906 (stock0050 1880) (stock0057 5088) ----- total   9874 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     20
+BUY: investor0029: cashe 2202 (stock0117 3984) (stock0061 3300) ----- total   9486 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0253: price     12
+BUY: investor0030: cashe 12355 (stock0253 144) ----- total  12499 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0202: price     52
+SELL: investor0033: cashe 12188 (stock0008 2044) ----- total  14232 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0203: price     53
+BUY: investor0035: cashe 1274 (stock0043 6765) (stock0203 1961) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0120: price     71
+SELL: investor0036: cashe 7369 (stock0075 720) ----- total   8089 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0051: price     41
+BUY: investor0037: cashe 685 (stock0154 5600) (stock0158 1152) (stock0051 5125) ----- total  12562 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0192: price     77
+BUY: investor0038: cashe 8257 (stock0192 3003) ----- total  11260 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0078: price     55
+SELL: investor0039: cashe 10807 ----- total  10807 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0105: price     38
+SELL: investor0041: cashe 6990 (stock0087 1100) ----- total   8090 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0015: price     45
+SELL: investor0043: cashe 9662 ----- total   9662 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0079: price     37
+BUY: investor0046: cashe 9862 (stock0157 364) (stock0079 111) ----- total  10337 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0158: price     13
+BUY: investor0047: cashe 4204 (stock0158 4368) ----- total   8572 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0059: price     33
+BUY: investor0048: cashe 2653 (stock0171 186) (stock0059 7161) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0090: price     60
+BUY: investor0049: cashe 2642 (stock0090 2520) (stock0194 1782) ----- total   6944 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0144: price     18
+BUY: investor0051: cashe 2180 (stock0144 5616) (stock0012 1920) ----- total   9716 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0147: price     14
+BUY: investor0052: cashe 6298 (stock0243 3888) (stock0147 84) ----- total  10270 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0078: price     57
+BUY: investor0058: cashe 1829 (stock0078 8835) (stock0068 17) ----- total  10681 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0072: price     33
+BUY: investor0060: cashe 1164 (stock0072 13596) ----- total  14760 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0046: price     26
+BUY: investor0061: cashe 4452 (stock0046 2522) ----- total   6974 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0130: price     43
+SELL: investor0063: cashe 6104 (stock0148 2394) (stock0212 174) ----- total   8672 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0165: price     48
+BUY: investor0001: cashe 592 (stock0180 8112) (stock0165 1296) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0209: price     83
+BUY: investor0002: cashe 5767 (stock0209 4233) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0086: price     45
+BUY: investor0003: cashe 4958 (stock0086 1980) ----- total   6938 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0228: price     75
+SELL: investor0004: cashe 8876 (stock0205 2720) ----- total  11596 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0085: price     89
+BUY: investor0006: cashe 2748 (stock0085 890) (stock0061 7000) (stock0181 1978) ----- total  12616 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0007: price    101
+BUY: investor0008: cashe 731 (stock0007 9494) ----- total  10225 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0093: price     81
+BUY: investor0009: cashe 902 (stock0040 8451) (stock0149 294) (stock0093 405) ----- total  10052 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0212: price     33
+BUY: investor0011: cashe 329 (stock0023 4074) (stock0093 5184) (stock0212 2013) ----- total  11600 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0075: price     39
+SELL: investor0013: cashe 12818 (stock0175 424) ----- total  13242 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0038: price    127
+BUY: investor0015: cashe 74 (stock0012 1400) (stock0038 10795) (stock0226 441) (stock0038 381) ----- total  13091 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0169: price     35
+BUY: investor0016: cashe 844 (stock0169 7700) ----- total   8544 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0014: price     65
+BUY: investor0017: cashe 4410 (stock0014 5590) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0007: price     92
+SELL: investor0018: cashe 7591 (stock0233 150) (stock0228 2025) ----- total   9766 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0085: price     92
+BUY: investor0019: cashe 1096 (stock0085 9568) ----- total  10664 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0021: price     48
+SELL: investor0021: cashe 10070 ----- total  10070 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0168: price     15
+SELL: investor0023: cashe 11443 ----- total  11443 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0085: price     90
+BUY: investor0025: cashe 10 (stock0019 1392) (stock0085 8640) ----- total  10042 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0057: price     22
+SELL: investor0027: cashe 9902 (stock0050 1880) ----- total  11782 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0117: price     79
+SELL: investor0029: cashe 5994 (stock0061 3300) ----- total   9294 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0022: price     40
+BUY: investor0030: cashe 5515 (stock0253 144) (stock0022 6840) ----- total  12499 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0058: price     14
+BUY: investor0031: cashe 6716 (stock0058 2716) ----- total   9432 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0008: price     81
+SELL: investor0033: cashe 14456 ----- total  14456 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0051: price     46
+BUY: investor0034: cashe 2018 (stock0051 9016) ----- total  11034 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0203: price     53
+SELL: investor0035: cashe 3235 (stock0043 6765) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0051: price     38
+SELL: investor0037: cashe 5435 (stock0154 5600) (stock0158 832) ----- total  11867 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0220: price     77
+BUY: investor0040: cashe 554 (stock0171 7564) (stock0220 308) ----- total   8426 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0087: price     58
+SELL: investor0041: cashe 8150 ----- total   8150 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0157: price     32
+SELL: investor0046: cashe 10310 (stock0079 108) ----- total  10418 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0059: price     32
+SELL: investor0048: cashe 9597 (stock0171 186) ----- total   9783 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0004: price     32
+BUY: investor0049: cashe 530 (stock0090 2520) (stock0004 2112) (stock0194 1782) ----- total   6944 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0093: price    109
+BUY: investor0050: cashe 2806 (stock0093 7194) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0155: price     92
+BUY: investor0051: cashe 1536 (stock0144 5616) (stock0012 1920) (stock0155 644) ----- total   9716 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0252: price     46
+BUY: investor0052: cashe 1238 (stock0243 3888) (stock0147 84) (stock0252 5060) ----- total  10270 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0113: price     83
+BUY: investor0057: cashe 8470 (stock0113 1494) ----- total   9964 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0068: price     16
+SELL: investor0058: cashe 1845 (stock0078 8835) ----- total  10680 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0038: price    122
+BUY: investor0059: cashe 4510 (stock0038 5490) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0072: price     37
+SELL: investor0060: cashe 16408 ----- total  16408 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0071: price     92
+BUY: investor0062: cashe 685 (stock0071 13708) ----- total  14393 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0148: price     51
+SELL: investor0063: cashe 9011 (stock0212 198) ----- total   9209 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0165: price     33
+SELL: investor0001: cashe 1483 (stock0180 8112) ----- total   9595 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0209: price     64
+SELL: investor0002: cashe 9031 ----- total   9031 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0205: price     32
+SELL: investor0004: cashe 11596 ----- total  11596 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0250: price     23
+BUY: investor0005: cashe 656 (stock0046 5694) (stock0250 4922) ----- total  11272 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0085: price     81
+SELL: investor0006: cashe 3558 (stock0061 7000) (stock0181 1978) ----- total  12536 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0007: price     87
+SELL: investor0008: cashe 8909 ----- total   8909 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0172: price     23
+BUY: investor0010: cashe 3415 (stock0172 7291) ----- total  10706 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0093: price     91
+SELL: investor0011: cashe 6153 (stock0023 4074) (stock0212 2013) ----- total  12240 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0226: price     61
+SELL: investor0012: cashe 1853 (stock0063 4655) (stock0181 6187) ----- total  12695 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0251: price     10
+SELL: investor0014: cashe 5460 (stock0011 4540) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0169: price     34
+SELL: investor0016: cashe 8324 ----- total   8324 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0228: price     69
+SELL: investor0018: cashe 9454 (stock0233 150) ----- total   9604 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0077: price     56
+BUY: investor0020: cashe 7265 (stock0077 2744) ----- total  10009 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0208: price     44
+BUY: investor0021: cashe 4042 (stock0208 6028) ----- total  10070 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0249: price     42
+BUY: investor0022: cashe 382 (stock0249 9618) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0019: price     17
+SELL: investor0025: cashe 1489 (stock0085 7776) ----- total   9265 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0050: price     36
+SELL: investor0027: cashe 11594 ----- total  11594 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     21
+SELL: investor0029: cashe 9459 ----- total   9459 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     15
+BUY: investor0031: cashe 5036 (stock0058 2716) (stock0061 1680) ----- total   9432 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0178: price     84
+BUY: investor0032: cashe 1114 (stock0178 8568) ----- total   9682 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0051: price     44
+SELL: investor0034: cashe 10642 ----- total  10642 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0075: price     47
+SELL: investor0036: cashe 8497 ----- total   8497 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0192: price     80
+SELL: investor0038: cashe 11377 ----- total  11377 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0159: price     77
+BUY: investor0039: cashe 7804 (stock0159 3003) ----- total  10807 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0085: price    116
+BUY: investor0040: cashe 322 (stock0171 7564) (stock0220 308) (stock0085 232) ----- total   8426 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0037: price     42
+BUY: investor0041: cashe 3488 (stock0037 4662) ----- total   8150 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0119: price     25
+BUY: investor0043: cashe 2487 (stock0119 7175) ----- total   9662 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0088: price      9
+SELL: investor0044: cashe 17 (stock0176 9802) (stock0244 112) (stock0175 53) ----- total   9984 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0079: price     35
+SELL: investor0046: cashe 10415 ----- total  10415 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0172: price     25
+BUY: investor0048: cashe 7922 (stock0171 186) (stock0172 1675) ----- total   9783 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0004: price     35
+SELL: investor0049: cashe 2840 (stock0090 2520) (stock0194 1782) ----- total   7142 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0012: price     17
+SELL: investor0051: cashe 3168 (stock0144 5616) (stock0155 644) ----- total   9428 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0252: price     55
+SELL: investor0052: cashe 7288 (stock0243 3888) (stock0147 84) ----- total  11260 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0138: price     48
+BUY: investor0055: cashe 10688 (stock0138 4560) ----- total  15248 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0026: price     50
+BUY: investor0057: cashe 6670 (stock0113 1494) (stock0026 1800) ----- total   9964 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0066: price     12
+BUY: investor0058: cashe 69 (stock0078 8835) (stock0066 1776) ----- total  10680 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0038: price    109
+SELL: investor0059: cashe 9415 ----- total   9415 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0218: price     34
+BUY: investor0061: cashe 1494 (stock0046 2522) (stock0218 2958) ----- total   6974 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0051: price     46
+BUY: investor0063: cashe 3353 (stock0051 5658) (stock0212 198) ----- total   9209 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0180: price     33
+SELL: investor0001: cashe 8347 ----- total   8347 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0060: price     51
+BUY: investor0003: cashe 1286 (stock0086 1980) (stock0060 3672) ----- total   6938 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0248: price     52
+BUY: investor0005: cashe 188 (stock0046 5694) (stock0250 4922) (stock0248 468) ----- total  11272 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0192: price     55
+BUY: investor0006: cashe 973 (stock0192 2585) (stock0061 5250) (stock0181 1978) ----- total  10786 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0164: price     63
+BUY: investor0007: cashe 5445 (stock0164 4977) ----- total  10422 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0051: price     36
+BUY: investor0009: cashe 362 (stock0040 8451) (stock0149 294) (stock0093 455) (stock0051 540) ----- total  10102 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0172: price     24
+SELL: investor0010: cashe 11023 ----- total  11023 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0041: price     17
+BUY: investor0012: cashe 1292 (stock0063 4655) (stock0041 561) (stock0181 6187) ----- total  12695 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0175: price     72
+SELL: investor0013: cashe 13394 ----- total  13394 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0153: price     61
+BUY: investor0015: cashe 13 (stock0012 1190) (stock0038 9265) (stock0226 427) (stock0038 327) (stock0153 61) ----- total  11283 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0168: price     15
+BUY: investor0017: cashe 4035 (stock0014 5590) (stock0168 375) ----- total  10000 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0233: price     22
+SELL: investor0018: cashe 9586 ----- total   9586 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0175: price     59
+BUY: investor0019: cashe 388 (stock0085 12064) (stock0175 708) ----- total  13160 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0089: price    105
+BUY: investor0020: cashe 440 (stock0077 2744) (stock0089 6825) ----- total  10009 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0208: price     52
+SELL: investor0021: cashe 11166 ----- total  11166 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0033: price     19
+BUY: investor0023: cashe 1848 (stock0033 9595) ----- total  11443 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0157: price     30
+BUY: investor0025: cashe 139 (stock0157 1350) (stock0085 11136) ----- total  12625 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0094: price      9
+BUY: investor0026: cashe 3405 (stock0094 7641) ----- total  11046 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0142: price     47
+BUY: investor0027: cashe 6612 (stock0142 4982) ----- total  11594 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0204: price     68
+SELL: investor0028: cashe 7046 ----- total   7046 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0253: price     11
+SELL: investor0030: cashe 5647 (stock0022 6840) ----- total  12487 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0216: price     15
+BUY: investor0032: cashe 709 (stock0178 8568) (stock0216 405) ----- total   9682 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0000: price     26
+BUY: investor0033: cashe 14430 (stock0000 26) ----- total  14456 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0194: price     40
+BUY: investor0034: cashe 9842 (stock0194 800) ----- total  10642 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0138: price     47
+BUY: investor0036: cashe 131 (stock0138 8366) ----- total   8497 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0158: price     19
+SELL: investor0037: cashe 6651 (stock0154 5600) ----- total  12251 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0159: price     51
+SELL: investor0039: cashe 9793 ----- total   9793 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0154: price     46
+BUY: investor0041: cashe 406 (stock0037 4662) (stock0154 3082) ----- total   8150 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0089: price    104
+BUY: investor0043: cashe 1343 (stock0119 7175) (stock0089 1144) ----- total   9662 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0089: price     82
+BUY: investor0045: cashe 7229 (stock0089 1394) ----- total   8623 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0227: price     42
+BUY: investor0046: cashe 8987 (stock0227 1428) ----- total  10415 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0158: price     17
+SELL: investor0047: cashe 9916 ----- total   9916 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0219: price     29
+BUY: investor0049: cashe 2724 (stock0090 2520) (stock0219 116) (stock0194 3240) ----- total   8600 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0093: price     52
+SELL: investor0050: cashe 6238 ----- total   6238 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0043: price     56
+BUY: investor0051: cashe 1152 (stock0144 5616) (stock0043 2016) (stock0155 644) ----- total   9428 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0147: price     19
+SELL: investor0052: cashe 7402 (stock0243 3888) ----- total  11290 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0040: price     33
+BUY: investor0054: cashe 1789 (stock0040 6501) ----- total   8290 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0113: price     62
+SELL: investor0057: cashe 7786 (stock0026 1800) ----- total   9586 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0216: price     15
+BUY: investor0060: cashe 3133 (stock0216 13275) ----- total  16408 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0218: price     31
+SELL: investor0061: cashe 4191 (stock0046 2522) ----- total   6713 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     13
+BUY: investor0063: cashe 2183 (stock0051 4428) (stock0241 1170) (stock0212 198) ----- total   7979 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0179: price     36
+BUY: investor0001: cashe 3055 (stock0179 5292) ----- total   8347 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0205: price     32
+BUY: investor0002: cashe 807 (stock0205 8224) ----- total   9031 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0086: price     45
+SELL: investor0003: cashe 3266 (stock0060 3672) ----- total   6938 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0187: price     50
+BUY: investor0004: cashe 646 (stock0187 10950) ----- total  11596 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0250: price     44
+SELL: investor0005: cashe 9604 (stock0046 5694) (stock0248 468) ----- total  15766 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0164: price     49
+SELL: investor0007: cashe 9316 ----- total   9316 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0192: price     84
+BUY: investor0009: cashe 194 (stock0040 10329) (stock0149 294) (stock0093 260) (stock0051 540) (stock0192 168) ----- total  11785 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0021: price     47
+BUY: investor0010: cashe 6981 (stock0021 4042) ----- total  11023 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0212: price     33
+SELL: investor0011: cashe 8166 (stock0023 4074) ----- total  12240 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0121: price     13
+BUY: investor0013: cashe 6504 (stock0121 6890) ----- total  13394 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0012: price     20
+BUY: investor0014: cashe 4140 (stock0012 1320) (stock0011 4540) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     17
+BUY: investor0016: cashe 7185 (stock0061 1139) ----- total   8324 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0208: price     49
+BUY: investor0017: cashe 2222 (stock0014 5590) (stock0168 375) (stock0208 1813) ----- total  10000 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     13
+BUY: investor0018: cashe 5491 (stock0061 4095) ----- total   9586 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0085: price    121
+SELL: investor0019: cashe 12972 (stock0175 708) ----- total  13680 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0249: price     91
+SELL: investor0022: cashe 21221 ----- total  21221 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0085: price     73
+SELL: investor0025: cashe 7147 (stock0157 1350) ----- total   8497 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0142: price     53
+SELL: investor0027: cashe 12230 ----- total  12230 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0032: price      9
+BUY: investor0030: cashe 5278 (stock0032 369) (stock0022 6840) ----- total  12487 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0048: price     11
+BUY: investor0031: cashe 1593 (stock0058 2716) (stock0061 1456) (stock0048 3443) ----- total   9208 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0171: price     48
+BUY: investor0032: cashe 613 (stock0178 8568) (stock0216 405) (stock0171 96) ----- total   9682 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0152: price     74
+BUY: investor0033: cashe 9250 (stock0000 26) (stock0152 5180) ----- total  14456 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0194: price     31
+SELL: investor0034: cashe 10462 ----- total  10462 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0138: price     47
+SELL: investor0036: cashe 8497 ----- total   8497 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0089: price     95
+BUY: investor0038: cashe 3112 (stock0089 8265) ----- total  11377 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0220: price     52
+SELL: investor0040: cashe 530 (stock0171 5856) (stock0085 146) ----- total   6532 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0126: price     27
+BUY: investor0042: cashe 7749 (stock0126 1080) ----- total   8829 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0176: price     13
+SELL: investor0044: cashe 9819 (stock0244 112) (stock0175 59) ----- total   9990 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0227: price     47
+SELL: investor0046: cashe 10585 ----- total  10585 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0222: price     43
+BUY: investor0048: cashe 5299 (stock0171 144) (stock0172 1608) (stock0222 2623) ----- total   9674 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0090: price     62
+SELL: investor0049: cashe 5328 (stock0219 116) (stock0194 2511) ----- total   7955 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0249: price     88
+BUY: investor0050: cashe 2806 (stock0249 3432) ----- total   6238 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0029: price     72
+BUY: investor0051: cashe 720 (stock0144 5616) (stock0043 2016) (stock0155 644) (stock0029 432) ----- total   9428 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0064: price     88
+BUY: investor0052: cashe 978 (stock0243 3888) (stock0064 6424) ----- total  11290 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0127: price     60
+BUY: investor0053: cashe 3072 (stock0127 4800) ----- total   7872 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0067: price     53
+BUY: investor0054: cashe 1206 (stock0040 6501) (stock0067 583) ----- total   8290 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0175: price     60
+BUY: investor0055: cashe 5408 (stock0138 4465) (stock0175 5280) ----- total  15153 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0238: price     41
+BUY: investor0057: cashe 6966 (stock0238 820) (stock0026 1800) ----- total   9586 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0066: price     12
+SELL: investor0058: cashe 1845 (stock0078 8835) ----- total  10680 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0216: price     15
+SELL: investor0060: cashe 16408 ----- total  16408 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0103: price     36
+BUY: investor0062: cashe 649 (stock0071 13708) (stock0103 36) ----- total  14393 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0241: price     22
+SELL: investor0063: cashe 4163 (stock0051 4428) (stock0212 198) ----- total   8789 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0232: price     35
+BUY: investor0001: cashe 640 (stock0179 5292) (stock0232 2415) ----- total   8347 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0091: price     68
+BUY: investor0002: cashe 331 (stock0205 8224) (stock0091 476) ----- total   9031 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0060: price     45
+SELL: investor0003: cashe 6506 ----- total   6506 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0187: price     49
+SELL: investor0004: cashe 11377 ----- total  11377 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     20
+SELL: investor0006: cashe 7973 (stock0192 3948) (stock0181 1978) ----- total  13899 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0093: price    108
+SELL: investor0009: cashe 734 (stock0040 10329) (stock0149 294) (stock0051 540) (stock0192 168) ----- total  12065 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0023: price     26
+SELL: investor0011: cashe 15732 ----- total  15732 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0132: price     12
+BUY: investor0013: cashe 6168 (stock0121 6890) (stock0132 336) ----- total  13394 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0011: price     18
+SELL: investor0014: cashe 8226 (stock0012 1320) ----- total   9546 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     16
+SELL: investor0016: cashe 8257 ----- total   8257 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0014: price     49
+SELL: investor0017: cashe 6436 (stock0168 375) (stock0208 1813) ----- total   8624 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0175: price     57
+SELL: investor0019: cashe 13656 ----- total  13656 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0212: price     24
+BUY: investor0020: cashe 296 (stock0077 2744) (stock0089 6175) (stock0212 144) ----- total   9359 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0210: price     75
+BUY: investor0022: cashe 8471 (stock0210 12750) ----- total  21221 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0173: price     56
+BUY: investor0023: cashe 504 (stock0033 9595) (stock0173 1344) ----- total  11443 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0157: price     18
+SELL: investor0025: cashe 7957 ----- total   7957 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0049: price    101
+BUY: investor0028: cashe 683 (stock0049 6363) ----- total   7046 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0232: price     37
+BUY: investor0029: cashe 2059 (stock0232 7400) ----- total   9459 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0022: price     41
+SELL: investor0030: cashe 12289 (stock0032 369) ----- total  12658 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0178: price     60
+SELL: investor0032: cashe 6733 (stock0216 405) (stock0171 96) ----- total   7234 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0152: price     55
+SELL: investor0033: cashe 13100 (stock0000 26) ----- total  13126 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0043: price     52
+SELL: investor0035: cashe 9631 ----- total   9631 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0205: price     32
+BUY: investor0037: cashe 187 (stock0154 5152) (stock0205 6464) ----- total  11803 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0089: price     44
+SELL: investor0038: cashe 6940 ----- total   6940 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0171: price     49
+SELL: investor0040: cashe 6508 (stock0085 146) ----- total   6654 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0060: price     53
+BUY: investor0042: cashe 3032 (stock0126 1080) (stock0060 4717) ----- total   8829 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0119: price     26
+SELL: investor0043: cashe 8805 (stock0089 484) ----- total   9289 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0059: price     38
+BUY: investor0045: cashe 2821 (stock0089 748) (stock0059 4408) ----- total   7977 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0073: price    115
+BUY: investor0046: cashe 5640 (stock0073 4945) ----- total  10585 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0222: price     44
+SELL: investor0048: cashe 7983 (stock0171 147) (stock0172 1608) ----- total   9738 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0249: price     83
+SELL: investor0050: cashe 6043 ----- total   6043 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0243: price      8
+SELL: investor0052: cashe 4866 (stock0064 6424) ----- total  11290 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0067: price     53
+SELL: investor0054: cashe 1789 (stock0040 6501) ----- total   8290 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0238: price     33
+SELL: investor0057: cashe 7626 (stock0026 1800) ----- total   9426 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0078: price     58
+SELL: investor0058: cashe 10835 ----- total  10835 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0203: price     58
+BUY: investor0061: cashe 2915 (stock0046 2522) (stock0203 1276) ----- total   6713 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0071: price     54
+SELL: investor0062: cashe 8695 (stock0103 36) ----- total   8731 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0116: price      8
+BUY: investor0000: cashe 11931 (stock0116 960) ----- total  12891 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0205: price     32
+SELL: investor0002: cashe 8555 (stock0091 476) ----- total   9031 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0248: price     68
+SELL: investor0005: cashe 10216 (stock0046 5694) ----- total  15910 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0192: price     64
+SELL: investor0006: cashe 10981 (stock0181 1978) ----- total  12959 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0015: price     52
+BUY: investor0008: cashe 6725 (stock0015 2184) ----- total   8909 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0192: price     54
+SELL: investor0009: cashe 842 (stock0040 10329) (stock0149 294) (stock0051 540) ----- total  12005 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0179: price     39
+BUY: investor0011: cashe 4695 (stock0179 11037) ----- total  15732 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0101: price     60
+BUY: investor0012: cashe 872 (stock0063 4655) (stock0041 561) (stock0181 6187) (stock0101 420) ----- total  12695 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0121: price      9
+SELL: investor0013: cashe 10938 (stock0132 336) ----- total  11274 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0038: price    133
+SELL: investor0015: cashe 11318 (stock0012 1400) (stock0226 427) (stock0038 399) (stock0153 61) ----- total  13605 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0168: price     14
+SELL: investor0017: cashe 6786 (stock0208 1813) ----- total   8599 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0077: price     56
+SELL: investor0020: cashe 3040 (stock0089 2860) (stock0212 144) ----- total   6044 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0065: price     42
+BUY: investor0022: cashe 3389 (stock0210 12750) (stock0065 5082) ----- total  21221 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0040: price     29
+BUY: investor0023: cashe 301 (stock0033 9595) (stock0173 1344) (stock0040 203) ----- total  11443 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0094: price     11
+SELL: investor0026: cashe 12744 ----- total  12744 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0123: price     85
+BUY: investor0028: cashe 173 (stock0049 6363) (stock0123 510) ----- total   7046 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0232: price     56
+SELL: investor0029: cashe 13259 ----- total  13259 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0068: price     17
+BUY: investor0031: cashe 590 (stock0058 2716) (stock0061 1792) (stock0048 3443) (stock0068 1003) ----- total   9544 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0171: price     62
+SELL: investor0032: cashe 6857 (stock0216 405) ----- total   7262 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0016: price     22
+BUY: investor0036: cashe 6429 (stock0016 2068) ----- total   8497 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0049: price     71
+BUY: investor0037: cashe 116 (stock0154 5152) (stock0205 6464) (stock0049 71) ----- total  11803 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0078: price     63
+BUY: investor0040: cashe 2098 (stock0078 4410) (stock0085 146) ----- total   6654 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0154: price     27
+SELL: investor0041: cashe 2215 (stock0037 4662) ----- total   6877 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0202: price     42
+BUY: investor0043: cashe 5781 (stock0202 3024) (stock0089 484) ----- total   9289 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0043: price     57
+BUY: investor0045: cashe 199 (stock0089 748) (stock0059 4408) (stock0043 2622) ----- total   7977 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0073: price     77
+SELL: investor0046: cashe 8951 ----- total   8951 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0119: price     24
+BUY: investor0048: cashe 3231 (stock0171 186) (stock0172 1608) (stock0119 4752) ----- total   9777 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0183: price     74
+BUY: investor0049: cashe 2220 (stock0183 3108) (stock0219 116) (stock0194 2511) ----- total   7955 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0144: price     18
+SELL: investor0051: cashe 6336 (stock0043 2052) (stock0155 644) (stock0029 432) ----- total   9464 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0127: price     55
+SELL: investor0053: cashe 7472 ----- total   7472 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0138: price     47
+SELL: investor0055: cashe 9873 (stock0175 5016) ----- total  14889 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0141: price     42
+BUY: investor0057: cashe 822 (stock0141 6804) (stock0026 1800) ----- total   9426 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0200: price     81
+BUY: investor0059: cashe 5527 (stock0200 3888) ----- total   9415 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0173: price     75
+BUY: investor0061: cashe 1115 (stock0046 2522) (stock0203 1276) (stock0173 1800) ----- total   6713 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0067: price     53
+BUY: investor0062: cashe 7476 (stock0067 1219) (stock0103 36) ----- total   8731 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0212: price     25
+SELL: investor0063: cashe 4313 (stock0051 4428) ----- total   8741 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0128: price     95
+BUY: investor0001: cashe 70 (stock0179 5733) (stock0232 3864) (stock0128 570) ----- total  10237 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0046: price     26
+SELL: investor0005: cashe 15910 ----- total  15910 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0015: price     43
+SELL: investor0008: cashe 8531 ----- total   8531 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0021: price     45
+SELL: investor0010: cashe 10851 ----- total  10851 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0220: price     43
+BUY: investor0012: cashe 98 (stock0063 4655) (stock0041 561) (stock0181 6187) (stock0101 420) (stock0220 774) ----- total  12695 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0132: price     17
+SELL: investor0013: cashe 11414 ----- total  11414 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0038: price     59
+SELL: investor0015: cashe 11495 (stock0012 1400) (stock0226 427) (stock0153 61) ----- total  13383 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0216: price     14
+BUY: investor0016: cashe 3973 (stock0216 4284) ----- total   8257 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0050: price     36
+BUY: investor0017: cashe 5310 (stock0050 1476) (stock0208 1813) ----- total   8599 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     13
+SELL: investor0018: cashe 9586 ----- total   9586 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0212: price     30
+SELL: investor0020: cashe 3220 (stock0089 2860) ----- total   6080 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0065: price     72
+SELL: investor0022: cashe 12101 (stock0210 12750) ----- total  24851 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     32
+BUY: investor0024: cashe 5082 (stock0241 3424) ----- total   8506 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0149: price     21
+BUY: investor0026: cashe 10350 (stock0149 2394) ----- total  12744 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0196: price     49
+BUY: investor0027: cashe 9437 (stock0196 2793) ----- total  12230 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0032: price     10
+SELL: investor0030: cashe 12699 ----- total  12699 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0155: price     95
+BUY: investor0032: cashe 207 (stock0155 6650) (stock0216 378) ----- total   7235 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0016: price     21
+SELL: investor0036: cashe 8403 ----- total   8403 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0173: price     74
+BUY: investor0039: cashe 617 (stock0173 9176) ----- total   9793 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0078: price     71
+SELL: investor0040: cashe 7068 (stock0085 146) ----- total   7214 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0126: price     33
+SELL: investor0042: cashe 4352 (stock0060 4717) ----- total   9069 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0244: price      9
+SELL: investor0044: cashe 9945 (stock0175 57) ----- total  10002 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0186: price     45
+BUY: investor0048: cashe 2466 (stock0171 186) (stock0172 1608) (stock0119 4752) (stock0186 765) ----- total   9777 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0030: price     25
+BUY: investor0049: cashe 1320 (stock0183 3108) (stock0219 116) (stock0194 2511) (stock0030 900) ----- total   7955 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0043: price     54
+SELL: investor0051: cashe 8280 (stock0155 665) (stock0029 432) ----- total   9377 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0102: price     10
+BUY: investor0053: cashe 6132 (stock0102 1340) ----- total   7472 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0040: price     30
+SELL: investor0054: cashe 7699 ----- total   7699 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0141: price     33
+SELL: investor0057: cashe 6168 (stock0026 1800) ----- total   7968 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0200: price     64
+SELL: investor0059: cashe 8599 ----- total   8599 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0223: price     66
+BUY: investor0061: cashe 59 (stock0046 2522) (stock0203 1276) (stock0173 1776) (stock0223 1056) ----- total   6689 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0103: price     39
+SELL: investor0062: cashe 7515 (stock0067 1219) ----- total   8734 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0116: price     13
+SELL: investor0000: cashe 13491 ----- total  13491 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0091: price     66
+SELL: investor0002: cashe 9017 ----- total   9017 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0148: price     27
+BUY: investor0005: cashe 61 (stock0148 15849) ----- total  15910 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0211: price     40
+BUY: investor0006: cashe 2741 (stock0211 8240) (stock0181 1978) ----- total  12959 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0040: price     29
+SELL: investor0009: cashe 9919 (stock0149 147) (stock0051 540) ----- total  10606 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0179: price     35
+SELL: investor0011: cashe 14600 ----- total  14600 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0138: price     47
+BUY: investor0013: cashe 1262 (stock0138 10152) ----- total  11414 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0012: price     22
+SELL: investor0014: cashe 9678 ----- total   9678 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0240: price     12
+BUY: investor0015: cashe 1907 (stock0012 1540) (stock0240 9588) (stock0226 427) (stock0153 61) ----- total  13523 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0216: price     13
+SELL: investor0016: cashe 7951 ----- total   7951 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0208: price     39
+BUY: investor0018: cashe 4282 (stock0208 5304) ----- total   9586 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0207: price     28
+BUY: investor0020: cashe 420 (stock0207 2800) (stock0089 2860) ----- total   6080 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0210: price     63
+SELL: investor0022: cashe 22811 ----- total  22811 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0241: price     23
+SELL: investor0024: cashe 7543 ----- total   7543 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0149: price     32
+SELL: investor0026: cashe 13998 ----- total  13998 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0196: price     49
+SELL: investor0027: cashe 12230 ----- total  12230 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0143: price     12
+BUY: investor0029: cashe 8063 (stock0143 5196) ----- total  13259 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0048: price     10
+SELL: investor0031: cashe 3720 (stock0058 2716) (stock0061 1456) (stock0068 1003) ----- total   8895 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0123: price     73
+BUY: investor0033: cashe 7552 (stock0000 26) (stock0123 5548) ----- total  13126 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0104: price     74
+BUY: investor0035: cashe 6227 (stock0104 3404) ----- total   9631 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0049: price    112
+SELL: investor0037: cashe 228 (stock0154 3024) (stock0205 6464) ----- total   9716 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0173: price     62
+SELL: investor0039: cashe 8305 ----- total   8305 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0037: price     52
+SELL: investor0041: cashe 7987 ----- total   7987 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0202: price     40
+SELL: investor0043: cashe 8661 (stock0089 484) ----- total   9145 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0175: price     49
+SELL: investor0044: cashe 9994 ----- total   9994 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0105: price     75
+BUY: investor0046: cashe 2801 (stock0105 6150) ----- total   8951 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0008: price     43
+BUY: investor0048: cashe 2337 (stock0171 186) (stock0172 1608) (stock0119 4752) (stock0186 765) (stock0008 129) ----- total   9777 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0081: price     14
+BUY: investor0049: cashe 1180 (stock0183 3108) (stock0219 116) (stock0194 2511) (stock0030 900) (stock0081 140) ----- total   7955 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0155: price     57
+SELL: investor0051: cashe 8679 (stock0029 432) ----- total   9111 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0229: price     37
+BUY: investor0052: cashe 1277 (stock0229 3589) (stock0064 6424) ----- total  11290 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0169: price     28
+BUY: investor0053: cashe 1176 (stock0102 1340) (stock0169 4956) ----- total   7472 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0071: price     79
+BUY: investor0054: cashe 4223 (stock0071 3476) ----- total   7699 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0175: price     65
+SELL: investor0055: cashe 15593 ----- total  15593 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0163: price     35
+BUY: investor0056: cashe 5330 (stock0163 3500) ----- total   8830 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0131: price     41
+BUY: investor0057: cashe 1986 (stock0131 4182) (stock0026 1800) ----- total   7968 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0228: price     52
+BUY: investor0058: cashe 1839 (stock0228 8996) ----- total  10835 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0146: price     32
+BUY: investor0061: cashe 27 (stock0046 2522) (stock0203 1276) (stock0173 1488) (stock0223 1056) (stock0146 32) ----- total   6401 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0067: price     53
+SELL: investor0062: cashe 8734 ----- total   8734 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0222: price     42
+BUY: investor0000: cashe 3915 (stock0222 9576) ----- total  13491 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0062: price     18
+BUY: investor0001: cashe 52 (stock0179 5145) (stock0232 3864) (stock0128 570) (stock0062 18) ----- total   9649 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0122: price     10
+BUY: investor0003: cashe 1046 (stock0122 5460) ----- total   6506 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0148: price     32
+SELL: investor0005: cashe 18845 ----- total  18845 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0153: price     47
+BUY: investor0007: cashe 3535 (stock0153 5781) ----- total   9316 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0149: price     46
+SELL: investor0009: cashe 10241 (stock0051 540) ----- total  10781 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0176: price     13
+BUY: investor0011: cashe 12273 (stock0176 2327) ----- total  14600 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0101: price     62
+SELL: investor0012: cashe 532 (stock0063 4655) (stock0041 561) (stock0181 6187) (stock0220 774) ----- total  12709 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0004: price     29
+BUY: investor0015: cashe 1559 (stock0012 1540) (stock0240 9588) (stock0226 427) (stock0004 348) (stock0153 47) ----- total  13509 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0044: price     45
+BUY: investor0017: cashe 2835 (stock0050 1476) (stock0044 2475) (stock0208 1443) ----- total   8229 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0208: price     65
+SELL: investor0018: cashe 13122 ----- total  13122 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     20
+BUY: investor0020: cashe 400 (stock0207 2800) (stock0089 2860) (stock0241 20) ----- total   6080 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0055: price     30
+BUY: investor0021: cashe 2976 (stock0055 8190) ----- total  11166 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0085: price     79
+BUY: investor0022: cashe 7406 (stock0085 15405) ----- total  22811 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0226: price     47
+BUY: investor0023: cashe 19 (stock0033 9595) (stock0173 1488) (stock0040 203) (stock0226 282) ----- total  11587 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0228: price     52
+BUY: investor0026: cashe 946 (stock0228 13052) ----- total  13998 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0073: price    108
+BUY: investor0027: cashe 5210 (stock0073 7020) ----- total  12230 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0123: price     82
+SELL: investor0028: cashe 665 (stock0049 7056) ----- total   7721 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0089: price     92
+BUY: investor0030: cashe 2579 (stock0089 10120) ----- total  12699 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0061: price     15
+SELL: investor0031: cashe 5400 (stock0058 2716) (stock0068 1003) ----- total   9119 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0000: price     34
+SELL: investor0033: cashe 7586 (stock0123 6232) ----- total  13818 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0104: price     79
+SELL: investor0035: cashe 9861 ----- total   9861 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0037: price     26
+BUY: investor0036: cashe 2241 (stock0037 6162) ----- total   8403 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0154: price     55
+SELL: investor0037: cashe 6388 (stock0205 6464) ----- total  12852 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0018: price     27
+BUY: investor0040: cashe 1857 (stock0018 5211) (stock0085 158) ----- total   7226 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0038: price     79
+BUY: investor0042: cashe 3404 (stock0038 948) (stock0060 4717) ----- total   9069 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0089: price     44
+SELL: investor0043: cashe 9145 ----- total   9145 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0089: price     52
+SELL: investor0045: cashe 1083 (stock0059 4408) (stock0043 2484) ----- total   7975 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0171: price     57
+SELL: investor0048: cashe 2508 (stock0172 1608) (stock0119 4752) (stock0186 765) (stock0008 129) ----- total   9762 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0132: price     18
+BUY: investor0050: cashe 5611 (stock0132 432) ----- total   6043 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0029: price     91
+SELL: investor0051: cashe 9225 ----- total   9225 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0169: price     31
+SELL: investor0053: cashe 6663 (stock0102 1340) ----- total   8003 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0207: price     28
+BUY: investor0055: cashe 9349 (stock0207 6244) ----- total  15593 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0103: price     45
+BUY: investor0057: cashe 1356 (stock0131 4182) (stock0026 1800) (stock0103 630) ----- total   7968 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0228: price     71
+SELL: investor0058: cashe 14122 ----- total  14122 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0070: price     24
+BUY: investor0061: cashe 3 (stock0046 2522) (stock0203 1276) (stock0173 1488) (stock0223 1056) (stock0146 32) (stock0070 24) ----- total   6401 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0061: price     12
+BUY: investor0062: cashe 7258 (stock0061 1476) ----- total   8734 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0218: price     44
+BUY: investor0063: cashe 441 (stock0051 4428) (stock0218 3872) ----- total   8741 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0231: price     28
+BUY: investor0000: cashe 2263 (stock0222 9576) (stock0231 1652) ----- total  13491 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0122: price     10
+SELL: investor0003: cashe 6506 ----- total   6506 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0211: price     38
+SELL: investor0006: cashe 10569 (stock0181 1978) ----- total  12547 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0134: price     45
+BUY: investor0007: cashe 2680 (stock0153 5781) (stock0134 855) ----- total   9316 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0223: price     79
+BUY: investor0008: cashe 2448 (stock0223 6083) ----- total   8531 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0066: price     17
+BUY: investor0009: cashe 8337 (stock0066 1904) (stock0051 540) ----- total  10781 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0170: price     41
+BUY: investor0010: cashe 437 (stock0170 10414) ----- total  10851 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0182: price     19
+BUY: investor0012: cashe 418 (stock0063 4655) (stock0041 561) (stock0181 6187) (stock0182 114) (stock0220 774) ----- total  12709 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0183: price     67
+BUY: investor0013: cashe 257 (stock0138 10152) (stock0183 1005) ----- total  11414 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0004: price     39
+SELL: investor0015: cashe 2027 (stock0012 1540) (stock0240 9588) (stock0226 329) (stock0153 47) ----- total  13531 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0028: price    118
+BUY: investor0017: cashe 239 (stock0050 1476) (stock0044 2475) (stock0208 2405) (stock0028 2596) ----- total   9191 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0029: price     63
+BUY: investor0018: cashe 11988 (stock0029 1134) ----- total  13122 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     22
+BUY: investor0020: cashe 136 (stock0207 2800) (stock0089 3380) (stock0241 22) (stock0241 264) ----- total   6602 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0055: price     29
+SELL: investor0021: cashe 10893 ----- total  10893 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0226: price     45
+SELL: investor0023: cashe 289 (stock0033 9595) (stock0173 1488) (stock0040 203) ----- total  11575 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0206: price     46
+BUY: investor0026: cashe 808 (stock0228 14307) (stock0206 138) ----- total  15253 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0098: price     23
+BUY: investor0027: cashe 1760 (stock0073 7020) (stock0098 3450) ----- total  12230 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0049: price     75
+SELL: investor0028: cashe 5390 ----- total   5390 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0143: price     11
+SELL: investor0029: cashe 12826 ----- total  12826 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0108: price     78
+BUY: investor0031: cashe 96 (stock0058 2716) (stock0108 5304) (stock0068 1003) ----- total   9119 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0123: price     82
+SELL: investor0033: cashe 13818 ----- total  13818 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0027: price     71
+BUY: investor0035: cashe 3187 (stock0027 6674) ----- total   9861 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0037: price     37
+SELL: investor0036: cashe 11010 ----- total  11010 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0205: price     31
+SELL: investor0037: cashe 12650 ----- total  12650 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0033: price     20
+BUY: investor0040: cashe 517 (stock0018 5211) (stock0033 1340) (stock0085 158) ----- total   7226 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0060: price     44
+SELL: investor0042: cashe 7320 (stock0038 948) ----- total   8268 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0059: price     35
+SELL: investor0045: cashe 5143 (stock0043 2484) ----- total   7627 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0222: price     44
+BUY: investor0048: cashe 1980 (stock0222 528) (stock0172 1608) (stock0119 4752) (stock0186 765) (stock0008 129) ----- total   9762 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0219: price     29
+SELL: investor0049: cashe 1296 (stock0183 2814) (stock0194 2511) (stock0030 900) (stock0081 140) ----- total   7661 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0064: price     49
+SELL: investor0052: cashe 4854 (stock0229 3589) ----- total   8443 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0071: price     68
+SELL: investor0054: cashe 7215 ----- total   7215 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0207: price     26
+SELL: investor0055: cashe 15147 ----- total  15147 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0026: price     38
+SELL: investor0057: cashe 2724 (stock0131 4182) (stock0103 630) ----- total   7536 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0054: price    103
+BUY: investor0060: cashe 3842 (stock0054 12566) ----- total  16408 
+investor_buy: __get_IPSR 11, 11 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0070: price     22
+SELL: investor0061: cashe 25 (stock0046 2522) (stock0203 1276) (stock0173 1488) (stock0223 1264) (stock0146 32) ----- total   6607 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0218: price     30
+SELL: investor0063: cashe 3081 (stock0051 4428) ----- total   7509 
+investor_buy: __get_IPSR 11, 11 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0098: price     26
+BUY: investor0002: cashe 6677 (stock0098 2340) ----- total   9017 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0121: price      9
+BUY: investor0003: cashe 3014 (stock0121 3492) ----- total   6506 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0053: price     52
+BUY: investor0005: cashe 593 (stock0053 18252) ----- total  18845 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0181: price     25
+SELL: investor0006: cashe 12719 ----- total  12719 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0223: price     37
+SELL: investor0008: cashe 5297 ----- total   5297 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0191: price     32
+BUY: investor0010: cashe 117 (stock0170 10414) (stock0191 320) ----- total  10851 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0176: price     12
+SELL: investor0011: cashe 14421 ----- total  14421 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0202: price     49
+BUY: investor0012: cashe 173 (stock0063 4655) (stock0041 561) (stock0181 6725) (stock0182 114) (stock0220 774) (stock0202 245) ----- total  13247 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0041: price      8
+BUY: investor0013: cashe 9 (stock0138 10152) (stock0183 1005) (stock0041 248) ----- total  11414 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0074: price     41
+BUY: investor0014: cashe 9637 (stock0074 41) ----- total   9678 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0226: price     61
+SELL: investor0015: cashe 2454 (stock0012 1540) (stock0240 9588) (stock0153 47) ----- total  13629 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0221: price     91
+BUY: investor0017: cashe 57 (stock0050 1476) (stock0044 2475) (stock0208 2405) (stock0028 2596) (stock0221 182) ----- total   9191 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0029: price    142
+SELL: investor0018: cashe 14544 ----- total  14544 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0241: price     32
+SELL: investor0020: cashe 168 (stock0207 2600) (stock0089 3380) (stock0241 384) ----- total   6532 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0182: price     22
+BUY: investor0022: cashe 4744 (stock0085 15405) (stock0182 2662) ----- total  22811 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0106: price     16
+BUY: investor0023: cashe 273 (stock0033 10100) (stock0173 1488) (stock0040 203) (stock0106 16) ----- total  12080 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     17
+BUY: investor0024: cashe 6829 (stock0241 714) ----- total   7543 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0228: price     70
+SELL: investor0026: cashe 18378 (stock0206 138) ----- total  18516 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0079: price     36
+BUY: investor0028: cashe 2150 (stock0079 3240) ----- total   5390 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0089: price    100
+SELL: investor0030: cashe 13579 ----- total  13579 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0216: price     14
+SELL: investor0032: cashe 585 (stock0155 3990) ----- total   4575 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0216: price     14
+BUY: investor0035: cashe 667 (stock0027 6674) (stock0216 2520) ----- total   9861 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0128: price     84
+BUY: investor0036: cashe 8154 (stock0128 2856) ----- total  11010 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0241: price     15
+BUY: investor0040: cashe 352 (stock0018 5211) (stock0033 1340) (stock0085 158) (stock0241 165) ----- total   7226 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0038: price    124
+SELL: investor0042: cashe 8808 ----- total   8808 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0124: price     49
+BUY: investor0043: cashe 8655 (stock0124 490) ----- total   9145 
+investor_buy: __get_IPSR 11, 11 
+BUY: stock0106: price     21
+BUY: investor0044: cashe 4723 (stock0106 5271) ----- total   9994 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0043: price     55
+SELL: investor0045: cashe 7673 ----- total   7673 
+investor_sell: __get_IPSR 11, 11 
+SELL: stock0105: price     40
+SELL: investor0046: cashe 6081 ----- total   6081 
+Stock Exchange is now closed
+Investor 0 - Net Worth: 13601, Gain/Loss: 501.02%
+Investor 1 - Net Worth: 10065, Gain/Loss: 19255.77%
+Investor 2 - Net Worth: 8747, Gain/Loss: 31.00%
+Investor 3 - Net Worth: 6894, Gain/Loss: 128.73%
+Investor 4 - Net Worth: 11377, Gain/Loss: 0.00%
+Investor 5 - Net Worth: 16739, Gain/Loss: 2722.77%
+Investor 6 - Net Worth: 12719, Gain/Loss: 0.00%
+Investor 7 - Net Worth: 11246, Gain/Loss: 319.63%
+Investor 8 - Net Worth: 5297, Gain/Loss: 0.00%
+Investor 9 - Net Worth: 10259, Gain/Loss: 23.05%
+Investor 10 - Net Worth: 16723, Gain/Loss: 14193.16%
+Investor 11 - Net Worth: 14421, Gain/Loss: 0.00%
+Investor 12 - Net Worth: 11073, Gain/Loss: 6300.58%
+Investor 13 - Net Worth: 11741, Gain/Loss: 130355.55%
+Investor 14 - Net Worth: 9676, Gain/Loss: 0.40%
+Investor 15 - Net Worth: 11099, Gain/Loss: 352.28%
+Investor 16 - Net Worth: 7951, Gain/Loss: 0.00%
+Investor 17 - Net Worth: 7418, Gain/Loss: 12914.04%
+Investor 18 - Net Worth: 14544, Gain/Loss: 0.00%
+Investor 19 - Net Worth: 13656, Gain/Loss: 0.00%
+Investor 20 - Net Worth: 6919, Gain/Loss: 4018.45%
+Investor 21 - Net Worth: 10893, Gain/Loss: 0.00%
+Investor 22 - Net Worth: 17842, Gain/Loss: 276.10%
+Investor 23 - Net Worth: 10440, Gain/Loss: 3724.18%
+Investor 24 - Net Worth: 8005, Gain/Loss: 17.22%
+Investor 25 - Net Worth: 7957, Gain/Loss: 0.00%
+Investor 26 - Net Worth: 18558, Gain/Loss: 0.98%
+Investor 27 - Net Worth: 10535, Gain/Loss: 498.58%
+Investor 28 - Net Worth: 5210, Gain/Loss: 142.33%
+Investor 29 - Net Worth: 12826, Gain/Loss: 0.00%
+Investor 30 - Net Worth: 13579, Gain/Loss: 0.00%
+Investor 31 - Net Worth: 11126, Gain/Loss: 11489.58%
+Investor 32 - Net Worth: 5555, Gain/Loss: 849.57%
+Investor 33 - Net Worth: 13818, Gain/Loss: 0.00%
+Investor 34 - Net Worth: 10462, Gain/Loss: 0.00%
+Investor 35 - Net Worth: 8083, Gain/Loss: 1111.84%
+Investor 36 - Net Worth: 10466, Gain/Loss: 28.35%
+Investor 37 - Net Worth: 12650, Gain/Loss: 0.00%
+Investor 38 - Net Worth: 6940, Gain/Loss: 0.00%
+Investor 39 - Net Worth: 8305, Gain/Loss: 0.00%
+Investor 40 - Net Worth: 6307, Gain/Loss: 1691.76%
+Investor 41 - Net Worth: 7987, Gain/Loss: 0.00%
+Investor 42 - Net Worth: 8808, Gain/Loss: 0.00%
+Investor 43 - Net Worth: 9005, Gain/Loss: 4.04%
+Investor 44 - Net Worth: 7986, Gain/Loss: 69.09%
+Investor 45 - Net Worth: 7673, Gain/Loss: 0.00%
+Investor 46 - Net Worth: 6081, Gain/Loss: 0.00%
+Investor 47 - Net Worth: 9916, Gain/Loss: 0.00%
+Investor 48 - Net Worth: 10908, Gain/Loss: 450.91%
+Investor 49 - Net Worth: 7840, Gain/Loss: 504.94%
+Investor 50 - Net Worth: 5779, Gain/Loss: 2.99%
+Investor 51 - Net Worth: 9225, Gain/Loss: 0.00%
+Investor 52 - Net Worth: 12614, Gain/Loss: 159.87%
+Investor 53 - Net Worth: 9343, Gain/Loss: 40.22%
+Investor 54 - Net Worth: 7215, Gain/Loss: 0.00%
+Investor 55 - Net Worth: 15147, Gain/Loss: 0.00%
+Investor 56 - Net Worth: 8630, Gain/Loss: 61.91%
+Investor 57 - Net Worth: 7322, Gain/Loss: 168.80%
+Investor 58 - Net Worth: 14122, Gain/Loss: 0.00%
+Investor 59 - Net Worth: 8599, Gain/Loss: 0.00%
+Investor 60 - Net Worth: 11284, Gain/Loss: 193.70%
+Investor 61 - Net Worth: 5751, Gain/Loss: 22904.00%
+Investor 62 - Net Worth: 8980, Gain/Loss: 23.73%
+Investor 63 - Net Worth: 8739, Gain/Loss: 183.64%
+
+Best Performing Investor: Investor 13
+Worst Performing Investor: Investor 4
+
+Investor Statistics:
+Number of BUY transactions: 383 
+Number of SELL transactions: 300 
+Bye!
+
+
